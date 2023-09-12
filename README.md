@@ -2,5 +2,5 @@
 
 To setup, run 
 >npm install
- or
+or
 >pnpm install
