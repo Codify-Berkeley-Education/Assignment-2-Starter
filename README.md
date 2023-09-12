@@ -2,5 +2,9 @@
 
 To setup, run 
 >npm install
-or
+
+to proceed with npm or run
+
 >pnpm install
+
+to proceed with pnpm
