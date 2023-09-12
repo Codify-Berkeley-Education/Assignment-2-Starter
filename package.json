@@ -4,7 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "testP1": "npx vitest run -t 'printIndex Function'",
+    "testP2": "npx vitest run -t 'largestMystery Function'",
+    "testP3": "npx vitest run -t 'multiplyBy Function'",
+    "testP4": "npx vitest run -t 'indexAndConcat Function'",
+    "testP5": "npx vitest run -t 'uppercaseStringsContainingWaldo Function'",
+    "testP6": "npx vitest run -t 'namesAndAges Function'",
+    "testP7": "npx vitest run -t 'doubleAge Function'"
   },
   "keywords": [],
   "author": "",
